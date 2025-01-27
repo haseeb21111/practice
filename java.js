@@ -3,5 +3,4 @@ let doIt = () => {
     alert(x);  // Show the baggage weight entered in an alert
     alert("done");  // Show a "done" message in an alert
 
-    
 }
